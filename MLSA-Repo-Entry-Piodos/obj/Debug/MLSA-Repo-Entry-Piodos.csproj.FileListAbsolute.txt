@@ -1,0 +1,11 @@
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\bin\Debug\MLSA-Repo-Entry-Piodos.exe.config
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\bin\Debug\MLSA-Repo-Entry-Piodos.exe
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\bin\Debug\MLSA-Repo-Entry-Piodos.pdb
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\obj\Debug\MLSA-Repo-Entry-Piodos.csproj.AssemblyReference.cache
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\obj\Debug\MLSA_Repo_Entry_Piodos.Form1.resources
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\obj\Debug\MLSA_Repo_Entry_Piodos.GreetingsTab.resources
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\obj\Debug\MLSA_Repo_Entry_Piodos.Properties.Resources.resources
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\obj\Debug\MLSA-Repo-Entry-Piodos.csproj.GenerateResource.cache
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\obj\Debug\MLSA-Repo-Entry-Piodos.csproj.CoreCompileInputs.cache
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\obj\Debug\MLSA-Repo-Entry-Piodos.exe
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\MLSA-Repo-Entry-Piodos\MLSA-Repo-Entry-Piodos\obj\Debug\MLSA-Repo-Entry-Piodos.pdb

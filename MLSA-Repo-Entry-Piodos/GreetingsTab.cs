@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace MLSA_Repo_Entry_Piodos
 {
-    public partial class Form1 : Form
+    public partial class GreetingsTab : Form
     {
-        public Form1()
+        public GreetingsTab()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            GreetingsTab tab = new GreetingsTab();
-            tab.Show();
-            this.Hide();
         }
     }
 }
